@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GDVMAXIMISER.iml" filepath="$PROJECT_DIR$/.idea/GDVMAXIMISER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GDVMaximiser/GDVMAXIMISER/.idea/GDVMAXIMISER.iml" filepath="$PROJECT_DIR$/../../GDVMaximiser/GDVMAXIMISER/.idea/GDVMAXIMISER.iml" />
     </modules>
   </component>
 </project>
